@@ -13,7 +13,7 @@ flask_session/*
 
 # Distribution / packaging
 .Python
-build/
+
 develop-eggs/
 dist/
 downloads/
